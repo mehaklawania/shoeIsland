@@ -43,7 +43,7 @@ return (
                     alt="logo/img"
                     className={`w-16 h-auto ${navState && "filter brightness-0"}`}
                 /> */}
-                <h1 className='logotile'>ShoeLand</h1>
+                <h1 className='logotile'>Shoe IsLand</h1>
             </div>
             <ul className='flex items-center justify-center gap-2'>
                 <li className='grid items-center'>
